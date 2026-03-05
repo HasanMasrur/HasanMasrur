@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hasan%20Masrur&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Senior%20Flutter%20Engineer%20%E2%80%94%205%2B%20Years%20%7C%2012%2B%20Live%20Apps%20%7C%203%20Countries&descColor=a8d8ea&descSize=17&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hasan%20Masrur&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Engineering%20mobile%20products%20that%20scale%20%E2%80%94%20from%20architecture%20to%20production&descColor=a8d8ea&descSize=17&descAlignY=60&animation=fadeIn"/>
 
 <div align="center">
 
