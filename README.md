@@ -1,22 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hasan%20Masrur&fontColor=fff&fontSize=60&fontAlignY=38&desc=Senior%20Flutter%20Engineer%20%E2%80%94%20Building%20apps%20that%20ship%20and%20stay%20live&descSize=18&descAlignY=60&descColor=c9d1d9&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hasan%20Masrur&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Senior%20Flutter%20Engineer%20%E2%80%94%205%2B%20Years%20%7C%2012%2B%20Live%20Apps%20%7C%203%20Countries&descColor=a8d8ea&descSize=17&descAlignY=60&animation=fadeIn"/>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/hasan-masrur">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-</a>
-&nbsp;
-<a href="mailto:hasanmasrur.cse.bd@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-</a>
-&nbsp;
-<a href="https://play.google.com/store/apps/dev?id=HasanMasrur">
-  <img src="https://img.shields.io/badge/-Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white" height="28"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/📍%20Dhaka%2C%20Bangladesh-222?style=flat-square" height="28"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=HasanMasrur&label=Profile%20Views&color=0e75b6&style=flat-square" height="28"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-masrur)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmasrur.cse.bd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HasanMasrur)
+![Location](https://img.shields.io/badge/📍_Dhaka,_Bangladesh-2c5364?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=HasanMasrur&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -26,246 +16,207 @@
 
 <br/>
 
-## 👨‍💻 &nbsp;Who I Am
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-**I'm a Senior Flutter Engineer with 5+ years of building mobile products that actually ship — and keep running reliably after they do.**
-
-From architecture to App Store release, I take full ownership of the mobile layer. My work spans complex domains — on-demand delivery, flight booking, IoT telemetry, e-commerce at scale, and national GovTech — built with clean, extensible codebases that grow without breaking.
-
-<br/>
-
-🏗️ &nbsp;**Architecture** &nbsp;→&nbsp; Clean Architecture · BLoC · SOLID · Modular design  
-📶 &nbsp;**Reliability** &nbsp;→&nbsp; Crashlytics · Sentry · Firebase Performance  
-🌐 &nbsp;**Offline-First** &nbsp;→&nbsp; Sync strategies for real-world, poor-network UX  
-🔌 &nbsp;**IoT** &nbsp;→&nbsp; MQTT · mDNS/Bonjour · LAN Discovery · DNS-SD  
-🤖 &nbsp;**Edge AI** &nbsp;→&nbsp; On-device LLaMA via Kotlin + FFI + MethodChannel  
-📦 &nbsp;**Full Delivery** &nbsp;→&nbsp; System design → Build → Store Release → Monitoring  
-
-</td>
-<td valign="top" width="45%">
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/Experience-5%2B%20Years-0A66C2?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Live%20Apps-12%2B%20on%20Stores-2ea44f?style=for-the-badge&logo=google-play&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Countries-🇺🇸%20🇦🇪%20🇧🇩-FF6C37?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Current%20Role-Bit%20Byte%20Technology-8B5CF6?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20International-1DA462?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-</div>
-
-</td>
-</tr>
-</table>
+## 👨‍💻 About Me
 
 <br/>
 
 <div align="center">
 
-![eCommerce](https://img.shields.io/badge/eCommerce%20%26%20SaaS-1a1a2e?style=flat-square)
-![Booking OTA](https://img.shields.io/badge/Booking%20%2F%20OTA-16213e?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT%20%26%20Embedded-0f3460?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge%20AI-533483?style=flat-square)
-![GovTech](https://img.shields.io/badge/GovTech-006A4E?style=flat-square)
-![EV](https://img.shields.io/badge/EV%20Infrastructure-2d6a4f?style=flat-square)
+| | |
+|:---|:---|
+| 🏢 | **Senior Flutter Engineer** @ Bit Byte Technology |
+| 📅 | **5+ years** of professional Flutter development |
+| 🚀 | **12+ apps** live on Google Play & App Store |
+| 🌍 | Built products for **USA 🇺🇸, UAE 🇦🇪, Bangladesh 🇧🇩** |
+| � | Expert in **Clean Architecture · BLoC · SOLID Principles** |
+| 🔌 | IoT systems with **MQTT · mDNS/Bonjour · LAN-based comms** |
+| 🤖 | On-device **LLaMA AI** via Kotlin + FFI + MethodChannel |
+| 🏛️ | Delivered **national GovTech** for Government of Bangladesh |
+| 💼 | Open to **Remote · Senior Flutter · Mobile Architect roles** |
 
 </div>
 
-<br clear="right"/>
+<br/>
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-Expert-6A0DAD?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC_Pattern-Expert-1565C0?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT_%26_MQTT-Advanced-2E7D32?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge_AI-Advanced-5C0080?style=flat-square)
+![eCommerce](https://img.shields.io/badge/eCommerce_SaaS-5+_years-E65100?style=flat-square)
+
+</div>
+
+<br/>
 
 ---
 
 <br/>
 
-## 🛠️ &nbsp;Technology Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<br/>
 
-**Mobile**
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+**Mobile Development**
 
-</td>
-<td valign="top" width="33%">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<br/>
 
 **Backend & APIs**
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
-**Cloud & Data**
+**Cloud, Storage & Payments**
 
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
+<br/>
 
-**State & Architecture**
+**Monitoring & DevOps**
 
-![BLoC](https://img.shields.io/badge/BLoC-Pattern-blue?style=for-the-badge)
-![Clean Arch](https://img.shields.io/badge/Clean-Architecture-purple?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-orange?style=for-the-badge)
-
-</td>
-<td valign="top" width="33%">
-
-**Monitoring**
-
-![Sentry](https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=Sentry&logoColor=#362D59)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Crashlytics](https://img.shields.io/badge/Crashlytics-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Firebase Perf](https://img.shields.io/badge/Firebase%20Perf-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+<br/>
 
 **IoT & Protocols**
 
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## 🚀 &nbsp;Production Apps — Live on Stores
-
-<div align="center">
-
-| # | App | Country | Domain | Play Store | App Store |
-|:-:|-----|:-------:|--------|:----------:|:---------:|
-| 1 | **FuelDash User** | 🇺🇸 | On-Demand Fuel Delivery | [▶](https://play.google.com/store/apps/details?id=com.fueldash.app) | [▶](https://apps.apple.com/us/app/fueldash/id6502490375) |
-| 2 | **FuelDash Service** | 🇺🇸 | Ops & Driver Management | [▶](https://play.google.com/store/apps/details?id=com.fueldash_service.app) | — |
-| 3 | **Lincolnton** | 🇺🇸 | Event Discovery · Eventbrite | [▶](https://play.google.com/store/apps/details?id=com.lincolnton.app) | TestFlight |
-| 4 | **BitCommerz** | 🇧🇩 | SaaS eCommerce Platform | [▶](https://play.google.com/store/apps/details?id=com.bitcommerz) | — |
-| 5 | **MonarchMart** | 🇧🇩 | eCommerce at Scale | [▶](https://play.google.com/store/apps/details?id=com.monarchmart) | [▶](https://apps.apple.com/us/app/monarch-mart/id1618678362) |
-| 6 | **Flipper User** | 🇧🇩 | Digital Marketplace | [▶](https://play.google.com/store/apps/details?id=com.springdevs.flipper.flipper_user) | [▶](https://apps.apple.com/us/app/flipper-ltd/id1598092051) |
-| 7 | **Flipper Business** | 🇧🇩 | Vendor Dashboard | [▶](https://play.google.com/store/apps/details?id=com.springdevs.flipper.flipper_business) | [▶](https://apps.apple.com/us/app/flipper-business/id1599049236) |
-| 8 | **Tiger Driver** | 🇧🇩 | EV Battery Swap Ops | [▶](https://play.google.com/store/apps/details?id=com.tigernewenergy.tiger_swap) | [▶](https://apps.apple.com/us/app/tiger-driver/id6473243800) |
-| 9 | **Tiger Partner** | 🇧🇩 | EV Dealer Management | [▶](https://play.google.com/store/apps/details?id=com.tigernewenergy.tiger_dealer) | [▶](https://apps.apple.com/us/app/tqiger-partner/id6479497474) |
-| 10 | **Sarangsho** | 🇧🇩 | News & Digital Content | [▶](https://play.google.com/store/apps/details?id=com.sarangsho) | Soon |
-| 11 | **Bdesh Flight** | 🇧🇩 | OTA Flight Booking | [▶](https://play.google.com/store/apps/details?id=com.explorebdesh) | In Review |
-| 12 | **Boichitro** 🏛️ | 🇧🇩 | National Digital Library · Govt | [▶](https://play.google.com/store/apps/details?id=com.dhansiri.communicationltm.boichitro) | [▶](https://apps.apple.com/us/app/boichitro/id1645484412) |
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge)
+![mDNS](https://img.shields.io/badge/mDNS%2FBonjour-555555?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
+<br/>
+
 ---
 
 <br/>
 
-## ⚡ &nbsp;Signature Projects
+## 🚀 Production Apps — Live on Stores
+
+<br/>
+
+<div align="center">
+
+| App | Market | Category | Android | iOS |
+|-----|:------:|----------|:-------:|:---:|
+| **FuelDash — User App** | 🇺🇸 | On-Demand Fuel Delivery | [Play Store](https://play.google.com/store/apps/details?id=com.fueldash.app) | [App Store](https://apps.apple.com/us/app/fueldash/id6502490375) |
+| **FuelDash — Service App** | 🇺🇸 | Driver & Ops Management | [Play Store](https://play.google.com/store/apps/details?id=com.fueldash_service.app) | — |
+| **Lincolnton** | 🇺🇸 | Event Discovery · Eventbrite | [Play Store](https://play.google.com/store/apps/details?id=com.lincolnton.app) | TestFlight |
+| **BitCommerz** | 🇧🇩 | SaaS eCommerce Platform | [Play Store](https://play.google.com/store/apps/details?id=com.bitcommerz) | — |
+| **MonarchMart** | 🇧🇩 | eCommerce at Scale | [Play Store](https://play.google.com/store/apps/details?id=com.monarchmart) | [App Store](https://apps.apple.com/us/app/monarch-mart/id1618678362) |
+| **Flipper — User** | 🇧🇩 | Digital Marketplace | [Play Store](https://play.google.com/store/apps/details?id=com.springdevs.flipper.flipper_user) | [App Store](https://apps.apple.com/us/app/flipper-ltd/id1598092051) |
+| **Flipper — Business** | 🇧🇩 | Vendor Dashboard | [Play Store](https://play.google.com/store/apps/details?id=com.springdevs.flipper.flipper_business) | [App Store](https://apps.apple.com/us/app/flipper-business/id1599049236) |
+| **Tiger Driver** | 🇧🇩 | EV Battery Swap | [Play Store](https://play.google.com/store/apps/details?id=com.tigernewenergy.tiger_swap) | [App Store](https://apps.apple.com/us/app/tiger-driver/id6473243800) |
+| **Tiger Partner** | 🇧🇩 | EV Dealer Management | [Play Store](https://play.google.com/store/apps/details?id=com.tigernewenergy.tiger_dealer) | [App Store](https://apps.apple.com/us/app/tqiger-partner/id6479497474) |
+| **Sarangsho** | 🇧🇩 | News & Content | [Play Store](https://play.google.com/store/apps/details?id=com.sarangsho) | Soon |
+| **Bdesh Flight Booking** | 🇧🇩 | OTA Flight Search & Book | [Play Store](https://play.google.com/store/apps/details?id=com.explorebdesh) | In Review |
+| **Boichitro** 🏛️ | 🇧🇩 | National Digital Library · Govt | [Play Store](https://play.google.com/store/apps/details?id=com.dhansiri.communicationltm.boichitro) | [App Store](https://apps.apple.com/us/app/boichitro/id1645484412) |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## ⚡ Signature Work
+
+<br/>
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🔌 BMZ — Solar IoT System</h3>
+### 🔌 BMZ — Solar IoT System
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MQTT-3C5280?style=flat-square" />
-  <img src="https://img.shields.io/badge/mDNS%2FBonjour-grey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Offline--First-success?style=flat-square" />
-</p>
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square)
+![mDNS](https://img.shields.io/badge/mDNS%2FBonjour-555?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline--First-2E7D32?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-Full solar telemetry system that runs entirely on **local LAN — no internet required**. MQTT-based device communication, mDNS/Bonjour auto-discovery, real-time dashboards, and offline-first sync for field conditions.
+Real-time solar telemetry system running entirely on **local LAN — zero internet required**. MQTT device communication, mDNS/Bonjour auto-discovery, and offline-first dashboards built for field engineers.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🤖 Mobile LLaMA — Edge AI</h3>
+### 🤖 Mobile LLaMA — Edge AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart%20FFI-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/MethodChannel-02569B?style=flat-square&logo=flutter&logoColor=white" />
-</p>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![FFI](https://img.shields.io/badge/Dart_FFI-0175C2?style=flat-square&logo=dart&logoColor=white)
+![MethodChannel](https://img.shields.io/badge/MethodChannel-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-On-device **LLaMA model execution** directly on Android — no cloud, no latency. Built the full bridge: Dart FFI → Kotlin native layer → model execution. Local AI inference before it was mainstream.
+**On-device LLaMA model** running directly on Android — no cloud, no latency. Full bridge: Dart FFI → Kotlin → native model execution. Local AI inference on a mobile phone.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">⛽ FuelDash — On-Demand Delivery</h3>
+### ⛽ FuelDash — On-Demand (USA)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stripe-5469d4?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-6C757D?style=flat-square" />
-  <img src="https://img.shields.io/badge/GPS%20Tracking-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-</p>
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-444?style=flat-square)
+![GPS](https://img.shields.io/badge/Real--time_GPS-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-US-market fuel delivery platform with **Stripe + Webhook automation**, real-time GPS tracking, and a paired operations app for drivers. Payment reliability was non-negotiable — built with that constraint from day one.
+US fuel delivery platform with **Stripe + Webhook automation**, real-time GPS, and a paired operations app. Payment reliability was critical — engineered with zero failure tolerance.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🏛️ Boichitro — National GovTech</h3>
+### 🏛️ Boichitro — GovTech Bangladesh
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Govt%20of%20Bangladesh-006A4E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Digital%20Library-royalblue?style=flat-square" />
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Govt](https://img.shields.io/badge/Govt_of_Bangladesh-006A4E?style=flat-square)
 
-National digital book archive commissioned by the **Government of Bangladesh**. Firebase-backed scalable APIs, advanced content caching, categorized browsing, and digital reading for a national-scale user base.
+National digital book archive for the **Government of Bangladesh**. Firebase-backed scalable APIs, content caching, categorized browsing, and digital reading for a national-scale audience.
 
 </td>
 </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
 <br/>
 
-## 📊 &nbsp;GitHub Stats
+## 📊 GitHub Stats
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HasanMasrur&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=480" height="175"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HasanMasrur&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasrur&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=320" height="175"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanMasrur&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -273,7 +224,7 @@ National digital book archive commissioned by the **Government of Bangladesh**. 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=HasanMasrur&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="175"/>
+<img src="https://streak-stats.demolab.com?user=HasanMasrur&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -281,79 +232,73 @@ National digital book archive commissioned by the **Government of Bangladesh**. 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasanMasrur&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasanMasrur&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=1f6feb&point=58a6ff"/>
 
 </div>
+
+<br/>
 
 ---
 
 <br/>
 
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HasanMasrur&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/>
-
-</div>
-
----
-
-<br/>
-
-## 💡 &nbsp;What Makes My Work Different
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🏗️  Architecture First    BLoC + Clean Arch that doesn't break     ║
-║                             at scale — built to last                 ║
-║                                                                      ║
-║   📶  Offline-First UX      Works in poor network — designed for     ║
-║                             real users in real conditions            ║
-║                                                                      ║
-║   🔌  IoT & Edge AI         MQTT · mDNS · On-device LLaMA —         ║
-║                             hardware meets mobile                    ║
-║                                                                      ║
-║   🛡️  Production Hardened   Sentry + Crashlytics + Firebase Perf     ║
-║                             in every serious project                 ║
-║                                                                      ║
-║   📦  Full Ownership        System design → Build → Store Release    ║
-║                             → Monitoring — end to end                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
+## 🏆 GitHub Trophies
 
 <br/>
 
 <div align="center">
 
-### 🤝 &nbsp;Open to Remote & International Opportunities
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=HasanMasrur&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 💡 What Sets My Work Apart
+
+<br/>
+
+<div align="center">
+
+| | Strength | Detail |
+|:-:|---------|--------|
+| 🏗️ | **Architecture First** | Clean Architecture + BLoC — codebases that don't collapse at scale |
+| 📶 | **Offline-First UX** | Sync strategies for real users in poor network conditions |
+| 🔌 | **IoT & Real-Time** | MQTT · mDNS/Bonjour · LAN discovery — hardware meets mobile |
+| 🤖 | **Edge AI** | On-device LLaMA inference — no cloud required |
+| 🛡️ | **Production Hardened** | Sentry + Crashlytics + Firebase Perf in every serious project |
+| 📦 | **Full End-to-End** | System design → App build → Store release → Live monitoring |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### Open to Remote & International Opportunities
 
 **Senior Flutter Engineer &nbsp;·&nbsp; Mobile Architect &nbsp;·&nbsp; Complex Product Teams**
 
 <br/>
 
-<a href="https://linkedin.com/in/hasan-masrur">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:hasanmasrur.cse.bd@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-*"I build apps that ship and stay live."*
-
-</div>
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-masrur)
+&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmasrur.cse.bd@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+*"I build apps that ship and stay live."*
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
