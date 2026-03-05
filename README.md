@@ -27,7 +27,7 @@
 | 🏢 | **Senior Flutter Engineer** @ Bit Byte Technology |
 | 📅 | **5+ years** of professional Flutter development |
 | 🚀 | **12+ apps** live on Google Play & App Store |
-| 🌍 | Built products for **USA 🇺🇸, UAE 🇦🇪, Bangladesh 🇧🇩** |
+| 🌍 | Built products for **USA 🇺🇸, UAE 🇦🇪, Germany 🇩🇪, Bangladesh 🇧🇩** |
 | � | Expert in **Clean Architecture · BLoC · SOLID Principles** |
 | 🔌 | IoT systems with **MQTT · mDNS/Bonjour · LAN-based comms** |
 | 🤖 | On-device **LLaMA AI** via Kotlin + FFI + MethodChannel |
