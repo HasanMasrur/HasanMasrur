@@ -26,38 +26,70 @@
 
 <br/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/HasanMasrur/HasanMasrur/main/assets/code.gif" alt="coding gif" />
+## 👨‍💻 &nbsp;Who I Am
 
-### `$ whoami`
+<br/>
 
-```dart
-class HasanMasrur {
+<table>
+<tr>
+<td valign="top" width="55%">
 
-  final String role     = "Senior Flutter Engineer";
-  final int    years    = 5;
-  final int    liveApps = 12;
+**I'm a Senior Flutter Engineer with 5+ years of building mobile products that actually ship — and keep running reliably after they do.**
 
-  final List<String> domains = [
-    "eCommerce & SaaS",
-    "Booking / OTA",
-    "IoT & Embedded Systems",
-    "Edge AI (On-Device)",
-    "GovTech",
-    "EV Infrastructure",
-  ];
+From architecture to App Store release, I take full ownership of the mobile layer. My work spans complex domains — on-demand delivery, flight booking, IoT telemetry, e-commerce at scale, and national GovTech — built with clean, extensible codebases that grow without breaking.
 
-  final Map<String, String> superPowers = {
-    "Architecture" : "Clean Architecture + BLoC + SOLID",
-    "Reliability"  : "Crashlytics + Sentry + Firebase Perf",
-    "Offline UX"   : "Sync strategies for real-world networks",
-    "IoT"          : "MQTT · mDNS/Bonjour · LAN Discovery",
-    "Edge AI"       : "On-device LLaMA via Kotlin + FFI",
-  };
+<br/>
 
-  String get openTo =>
-    "Senior Flutter / Mobile Architect — Remote & International 🌍";
-}
-```
+🏗️ &nbsp;**Architecture** &nbsp;→&nbsp; Clean Architecture · BLoC · SOLID · Modular design  
+📶 &nbsp;**Reliability** &nbsp;→&nbsp; Crashlytics · Sentry · Firebase Performance  
+🌐 &nbsp;**Offline-First** &nbsp;→&nbsp; Sync strategies for real-world, poor-network UX  
+🔌 &nbsp;**IoT** &nbsp;→&nbsp; MQTT · mDNS/Bonjour · LAN Discovery · DNS-SD  
+🤖 &nbsp;**Edge AI** &nbsp;→&nbsp; On-device LLaMA via Kotlin + FFI + MethodChannel  
+📦 &nbsp;**Full Delivery** &nbsp;→&nbsp; System design → Build → Store Release → Monitoring  
+
+</td>
+<td valign="top" width="45%">
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-0A66C2?style=for-the-badge&logo=flutter&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Live%20Apps-12%2B%20on%20Stores-2ea44f?style=for-the-badge&logo=google-play&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Countries-🇺🇸%20🇦🇪%20🇧🇩-FF6C37?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Current%20Role-Bit%20Byte%20Technology-8B5CF6?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20To-Remote%20%26%20International-1DA462?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![eCommerce](https://img.shields.io/badge/eCommerce%20%26%20SaaS-1a1a2e?style=flat-square)
+![Booking OTA](https://img.shields.io/badge/Booking%20%2F%20OTA-16213e?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT%20%26%20Embedded-0f3460?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-533483?style=flat-square)
+![GovTech](https://img.shields.io/badge/GovTech-006A4E?style=flat-square)
+![EV](https://img.shields.io/badge/EV%20Infrastructure-2d6a4f?style=flat-square)
+
+</div>
 
 <br clear="right"/>
 
